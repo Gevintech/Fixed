@@ -1,31 +1,10 @@
 {
   "expo": {
-    "name": "Todo App",
-    "slug": "todo-app",
+    "name": "TodoApp",
+    "slug": "todoapp",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": ["**/*"],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.gevintech.todoapp"
-    },
     "android": {
-      "package": "com.gevintech.todoapp",
-      "versionCode": 1,
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.gevin.todoapp"
     }
   }
 }
